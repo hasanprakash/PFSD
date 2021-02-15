@@ -1,0 +1,29 @@
+CO2-NOTES:
+1. "Create a repository in github"
+eg:190030240_PFSD_Flask
+2. For every end of the session. We need to submit in the github repository.
+3. In the next session we need the previous session code to be pulled off.
+
+In Python we can develop webapplication frameworks like
+	Flask
+	Django
+	CherryPy
+	Pyramid.
+
+FLASK:
+* Flask is micro web framework to create to simple web application.
+eg:LinkedIn etc.
+* Flask uses a server called as "jinja2"
+* We can create customize web application using the code.
+* Flask is framework consisting readymade packages or libraries.
+* Its a light weight framework.
+resource url - https://flask.palletsprojects.com/en/1.1.x/
+Task2 - Create 2 webpage with HTML and CSS with following 
+1 page consisting:
+	images, 
+	paragraphs,
+	links,
+	video frame(optional)
+2nd page consising:
+	Registration Page(Use all tags)
+
